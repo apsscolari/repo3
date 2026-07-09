@@ -1,6 +1,7 @@
 import requests
 
 # Sample API key (dummy for testing purposes)
+# test Ana to kick codeQL
 api_key = "1234567890abcdef1234567890abcdef"
 
 # Sample username and password
